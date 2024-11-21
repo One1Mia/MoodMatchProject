@@ -7,7 +7,7 @@ This project combines sentiment analysis, web scraping, and data processing to h
 **Sentiment Analysis:** Processes IMDb reviews and analyzes them as they were being added to the database.
 > [!NOTE]
 > - Found in `sentiment_analysis.py`
-> - Database was made by `project.py`
+> - Database was made using `project.py`
 > - Database is found in `database.py` _(Does not need to be run anymore)_
 > - Genre in the database were made with `genre.py`
 
