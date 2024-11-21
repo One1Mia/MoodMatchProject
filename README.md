@@ -14,8 +14,8 @@ This project combines sentiment analysis, web scraping, and data processing to h
 **Recommendation Engine:** Matches movies with a certain scores/grade.
 > [!NOTE]
 > - Found in `recommendation.py`
-> - Only code that needs to be run for program to work.
-> - **Have `movie.db` in same directory**
+> - Only code that needs to be run for the program to work.
+> - **Have `movie.db` in the same directory**
 
 **Simple User Interface (UI):** Accepts movie titles as input and displays recommendations intuitively.
 > [!NOTE]
@@ -24,9 +24,14 @@ This project combines sentiment analysis, web scraping, and data processing to h
 ## How to Install and Run
 **Prerequisites**
 1. Python 3.9+
+   
 **Required Python libraries:**
 1. PyTorch 
 2. SQLite
 3. json
 
-**Installation Steps**
+**Install and Run steps**
+1. Download the code as a zip file to your local computer
+2. Go to your terminal and navigate to wherever you saved the project
+3. Once in the project folder run python `recommendation.py`
+   
