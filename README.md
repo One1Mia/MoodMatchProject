@@ -34,5 +34,5 @@ This project combines sentiment analysis, web scraping, and data processing to h
 1. Download the code as a zip file to your local computer
 2. Go to your terminal and navigate to wherever you saved the project
 3. Once in the project folder run python `recommendation.py`
-4. To use the user interface, run UI.py
+4. To use the user interface run UI.py
    
