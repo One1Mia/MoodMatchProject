@@ -26,8 +26,7 @@ This project combines sentiment analysis, web scraping, and data processing to h
 1. Python 3.9+
    
 **Required Python libraries:**
-1. PyTorch 
-2. SQLite
+1. PyTorch
 3. json
 4. sqlite3
 5. io
