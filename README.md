@@ -29,10 +29,15 @@ This project combines sentiment analysis, web scraping, and data processing to h
 1. PyTorch 
 2. SQLite
 3. json
+4. sqlite3
+5. io
+6. customtkinter
+7. PIL
 
 **Install and Run steps**
 1. Download the code as a zip file to your local computer
 2. Go to your terminal and navigate to wherever you saved the project
-3. Once in the project folder run python `recommendation.py`
-4. To use the user interface run UI.py
+3. Open project in your preferred IDE
+4. Ensure all imports have been installed and configure interpreter if necessary
+5. Run the python file `UI.py`
    
