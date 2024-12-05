@@ -34,7 +34,7 @@ This project combines sentiment analysis, web scraping, and data processing to h
 7. PIL
 
 **Install and Run steps**
-1. Download the code as a zip file to your local computer
+1. Download the code as a zip file to your local computer, then extract all files
 2. Go to your terminal and navigate to wherever you saved the project
 3. Open project in your preferred IDE
 4. Ensure all imports have been installed and configure interpreter if necessary
