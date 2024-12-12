@@ -35,8 +35,9 @@ This project combines sentiment analysis, web scraping, and data processing to h
 
 **Install and Run steps**
 1. Download the code as a zip file to your local computer, then extract all files
-2. Go to your terminal and navigate to wherever you saved the project
-3. Open project in your preferred IDE
-4. Ensure all imports have been installed and configure interpreter if necessary
-5. Run the python file `UI.py`
+2. Download movie.db from [this Google Drive link](https://drive.google.com/file/d/1NivSQTVYfAjjiDlz0mTq0y1Pdc49QswS/view?usp=sharing)
+3. Place movie.db into the project folder from Step 1.
+4. Open the project in your preferred IDE
+5. Ensure all imports have been installed and configure interpreter if necessary
+6. Run `UI.py`
    
